@@ -1,0 +1,2 @@
+- This is for learning to write a terminal based text editor.
+- The tutorial I follow is https://viewsourcecode.org/snaptoken/kilo/
